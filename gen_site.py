@@ -3,7 +3,7 @@ m = json.load(open("model.json"))
 means, stds, coef, icpt = m["means"], m["stds"], m["coef"], m["intercept"]
 mt = m["metrics"]
 acc, auc, base, dr = mt["cv_accuracy"], mt["cv_auc"], mt["baseline_accuracy"], mt["dropout_rate"]
-DOMAIN = "dropguard.vercel.app"
+DOMAIN = "dropguard-alpha.vercel.app"
 index = f"""<!DOCTYPE html>
 <html lang="en">
 <head>

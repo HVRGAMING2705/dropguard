@@ -28,7 +28,7 @@
     },
     {
      "key": "Access-Control-Allow-Origin",
-     "value": "https://dropguard.vercel.app"
+     "value": "https://dropguard-alpha.vercel.app"
     },
     {
      "key": "Content-Security-Policy",

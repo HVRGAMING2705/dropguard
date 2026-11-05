@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dropguard.vercel.app/sitemap.xml
+Sitemap: https://dropguard-alpha.vercel.app/sitemap.xml
